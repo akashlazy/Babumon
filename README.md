@@ -5,7 +5,7 @@
   <img src="https://github.com/akashlazy/BabumonStories/blob/main/babumon%20app%20icon.png" alt="Image" width="300">
 </p>
 <p align="center">
-<img src="https://github.com/akashlazy/Babumon/assets/19661563/09a77bec-47e2-4e35-81c1-5d5c58d4f02b.png" alt="Image" width="150">
+<img src="https://github.com/akashlazy/BabumonStories/blob/main/appstore.png" alt="Image" width="150">
 </p>
 <p align="center">
 Hey! Now you are incredibly lucky that you visited our site and you can download app <br>
