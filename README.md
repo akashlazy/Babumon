@@ -7,4 +7,4 @@
 Hey! Now you are incredibly lucky that you visited our site and you can download app
 or write to support service by e-mail:
 
-runmeplease@gmail.com
+babumon.app@gmail.com
